@@ -130,7 +130,7 @@ module "storage" {
 - [terraform-az-fk-nsg](https://github.com/mlinxfeld/terraform-az-fk-nsg)
 - [terraform-az-fk-private-endpoint](https://github.com/foggykitchen/terraform-az-fk-private-endpoint)
 - [terraform-az-fk-loadbalancer](https://github.com/mlinxfeld/terraform-az-fk-loadbalancer)
-- [terraform-az-fk-disk](https://github.com/mlinxfeld/terraform-az-fk-disk)
+- [terraform-az-fk-disk](https://github.com/foggykitchen/terraform-az-fk-disk)
 - [terraform-az-fk-aks](https://github.com/mlinxfeld/terraform-az-fk-aks)
 
 ---
