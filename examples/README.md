@@ -81,14 +81,14 @@ The examples intentionally avoid:
 ## 🔗 Related Modules & Training
 
 - [FoggyKitchen Azure Storage Module (terraform-az-fk-storage)](../)
-- [FoggyKitchen Azure VNet Module (terraform-az-fk-vnet)](https://github.com/mlinxfeld/terraform-az-fk-vnet)
-- [FoggyKitchen Azure Compute Module (terraform-az-fk-compute)](https://github.com/mlinxfeld/terraform-az-fk-compute)
-- [FoggyKitchen Azure NSG Module (terraform-az-fk-nsg)](https://github.com/mlinxfeld/terraform-az-fk-nsg)
-- [FoggyKitchen Azure Private Endpoint Module (terraform-az-fk-private-endpoint)](https://github.com/mlinxfeld/terraform-az-fk-private-endpoint)
-- [FoggyKitchen Azure Load Balancer Module (terraform-az-fk-loadbalancer)](https://github.com/mlinxfeld/terraform-az-fk-loadbalancer)
-- [FoggyKitchen Azure Disk Module (terraform-az-fk-disk)](https://github.com/mlinxfeld/terraform-az-fk-disk)
-- [FoggyKitchen AKS Module (terraform-az-fk-aks)](https://github.com/mlinxfeld/terraform-az-fk-aks)
-- [OCI OKE Module (terraform-oci-fk-oke)](https://github.com/mlinxfeld/terraform-oci-fk-oke)
+- [FoggyKitchen Azure VNet Module (terraform-az-fk-vnet)](https://github.com/foggykitchen/terraform-az-fk-vnet)
+- [FoggyKitchen Azure Compute Module (terraform-az-fk-compute)](https://github.com/foggykitchen/terraform-az-fk-compute)
+- [FoggyKitchen Azure NSG Module (terraform-az-fk-nsg)](https://github.com/foggykitchen/terraform-az-fk-nsg)
+- [FoggyKitchen Azure Private Endpoint Module (terraform-az-fk-private-endpoint)](https://github.com/foggykitchen/terraform-az-fk-private-endpoint)
+- [FoggyKitchen Azure Load Balancer Module (terraform-az-fk-loadbalancer)](https://github.com/foggykitchen/terraform-az-fk-loadbalancer)
+- [FoggyKitchen Azure Disk Module (terraform-az-fk-disk)](https://github.com/foggykitchen/terraform-az-fk-disk)
+- [FoggyKitchen AKS Module (terraform-az-fk-aks)](https://github.com/foggykitchen/terraform-az-fk-aks)
+- [OCI OKE Module (terraform-oci-fk-oke)](https://github.com/foggykitchen/terraform-oci-fk-oke)
 
 ---
 
