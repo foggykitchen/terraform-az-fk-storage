@@ -74,7 +74,7 @@ terraform-az-fk-storage/
 
 ```hcl
 module "storage" {
-  source = "git::https://github.com/mlinxfeld/terraform-az-fk-storage.git?ref=v1.0.0"
+  source = "git::https://github.com/foggykitchen/terraform-az-fk-storage.git?ref=v1.0.0"
 
   name                = "fksaexample"
   location            = "westeurope"
