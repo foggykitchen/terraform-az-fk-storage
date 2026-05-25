@@ -66,6 +66,14 @@ in the AKS training module, where storage is provisioned via CSI drivers.
 
 ---
 
+## Related Article
+
+- [Azure Files with Private Endpoint and Private VMs - A Clean Storage Baseline with Terraform](https://foggykitchen.com/2026/01/16/azure-files-private-endpoint-terraform/)
+
+This article provides the architectural background for this example and explains how Azure Files, Private Endpoints, Private DNS, and private Virtual Machines fit together as a clean baseline for secure shared storage consumption in Azure.
+
+---
+
 ## 🚀 Deployment Steps
 
 From the `examples/06_private_endpoint_file_with_vm` directory:
