@@ -77,6 +77,14 @@ would typically run from within the Virtual Network
 
 ---
 
+## Related Article
+
+- [Azure Blob Storage with Private Endpoint - Designing a Private Object Store with Terraform](https://foggykitchen.com/2026/01/19/azure-blob-private-endpoint-terraform/)
+
+This article explains the architectural reasoning behind this example and shows how Azure Blob Storage, Private Endpoints, Private DNS, and restricted network access combine into a clean private object storage baseline in Azure.
+
+---
+
 ## 🚀 Deployment Steps
 
 From the `examples/05_private_endpoint_blob` directory:
