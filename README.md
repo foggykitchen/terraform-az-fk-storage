@@ -6,6 +6,8 @@ It is part of the **[FoggyKitchen.com training ecosystem](https://foggykitchen.c
 
 This module is also part of the **[Azure Fundamentals with Terraform/OpenTofu — Build Real-World Azure Architectures with Reusable Modules (2026 Edition)](https://foggykitchen.com/courses/azure-fundamentals-terraform-course/)** course. In the training, it is used to connect Azure infrastructure basics with real storage patterns, from simple accounts to private access from workload VMs.
 
+Support expectations are documented in [SUPPORT.md](SUPPORT.md).
+
 ---
 
 ## 🎯 Purpose
